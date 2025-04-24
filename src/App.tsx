@@ -8,7 +8,7 @@ import {TxForm} from "./components/TxForm/TxForm";
 function App() {
   return (
     <TonConnectUIProvider
-      manifestUrl="https://ton-connect.github.io/demo-dapp-with-tk-pro/tonconnect-manifest.json"
+      manifestUrl="https://tonkeepr.github.io/demo-dapp-with-tk-pro/tonconnect-manifest.json"
       uiPreferences={{theme: THEME.DARK}}
       walletsListConfiguration={{
             includeWallets: [
