@@ -1,6 +1,6 @@
 # Demo dApp with @tonconnect/ui-react
 
-This Demo dApp showcases the integration with @tonconnect/ui-react. Experience it live at [Demo dApp with tk pro](https://ton-connect.github.io/demo-dapp-with-tk-pro/).
+This Demo dApp showcases the integration with @tonconnect/ui-react. Experience it live at [Demo dApp with tk pro](https://tonkeeper.github.io/demo-dapp-with-tk-pro/).
 
 ## Learn More About Ton Connect
 
