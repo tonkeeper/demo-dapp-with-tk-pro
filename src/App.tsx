@@ -37,12 +37,6 @@ function App() {
       }}
     >
       <div className="app">
-        <br />
-        <a style={{color: 'white'}} href="https://app.tonkeeper.com/pro/ton-connect?v=2&id=97c928545864024234d772514a986afe60cd553e89fb27a1289b8dfb77189460&r=%7B%22manifestUrl%22:%22https://tonkeepr.github.io/demo-dapp-with-tk-pro/tonconnect-manifest.json%22,%22items%22:%5B%7B%22name%22:%22ton_addr%22%7D%5D%7D&ret=none">Open pro universal link test</a>
-        <br />
-        <br />
-        <a style={{color: 'white'}} href="https://app.tonkeeper.com/ton-connect?v=2&id=97c928545864024234d772514a986afe60cd553e89fb27a1289b8dfb77189460&r=%7B%22manifestUrl%22:%22https://tonkeepr.github.io/demo-dapp-with-tk-pro/tonconnect-manifest.json%22,%22items%22:%5B%7B%22name%22:%22ton_addr%22%7D%5D%7D&ret=none">Open regular universal link test</a>
-        <br />
         <Header/>
         <TxForm/>
         {/*<TonProofDemo />*/}
